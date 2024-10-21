@@ -6,5 +6,6 @@ $mod_strings = array(
     'LBL_URL' => 'URL of Code ',
     'LBL_PRICE' => 'Price of infrastructure',
     'LBL_PART_NUMBER' => 'Product ID',
+    'LBL_COST' => 'Product Cost in MD',
     
 );

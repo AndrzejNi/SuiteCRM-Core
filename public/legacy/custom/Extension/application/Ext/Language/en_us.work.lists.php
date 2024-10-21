@@ -19,3 +19,8 @@ $app_list_strings['work_stage_dom']['5'] = 'Stop';
 $app_list_strings['work_type_dom']['WWW'] = 'WWW ';
 $app_list_strings['work_type_dom']['API'] = 'API';
 $app_list_strings['work_type_dom']['FORMS'] = 'FORMS';
+
+
+$app_list_strings['product_type_dom']['Service'] = 'Service';
+$app_list_strings['product_type_dom']['Robot'] = 'Robot';
+$app_list_strings['product_type_dom']['AI'] = 'AI';
