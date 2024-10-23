@@ -38,4 +38,4 @@
  * display the words "Powered by SugarCRM" and "Supercharged by SuiteCRM".
  */
 
-$app_list_strings['moduleList']['Work'] = 'Work';
+$app_list_strings['moduleList']['Works'] = 'Works';

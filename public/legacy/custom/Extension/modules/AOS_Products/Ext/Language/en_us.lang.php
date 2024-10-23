@@ -7,5 +7,5 @@ $mod_strings = array(
     'LBL_PRICE' => 'Price of infrastructure',
     'LBL_PART_NUMBER' => 'Product ID',
     'LBL_COST' => 'Product Cost in MD',
-    
+    'LBL_PRODUCT_WORKS' => 'Related Works'  
 );

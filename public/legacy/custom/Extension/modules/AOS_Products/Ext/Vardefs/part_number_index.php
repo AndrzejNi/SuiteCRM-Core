@@ -4,3 +4,4 @@ $dictionary['AOS_Products']['indices'][] = array(
     'type' => 'unique',
     'fields' => array('part_number')
 );
+
