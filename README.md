@@ -2,7 +2,7 @@
   <img width="180px" height="41px" src="https://suitecrm.com/wp-content/uploads/2017/12/logo.png" align="right" />
 </a>
 
-# SuiteCRM 8.7.0
+# SuiteCRM 8.7.0 with Works 0.2
 
 [![LICENSE](https://img.shields.io/github/license/suitecrm/suitecrm.svg)](https://github.com/salesagility/suitecrm/blob/hotfix/LICENSE.txt)
 [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/salesagility/SuiteCRM-Core/issues)
@@ -14,7 +14,7 @@
 [Community & Forum](https://suitecrm.com/suitecrm/forum) |
 [Code of Conduct](https://docs.suitecrm.com/community/code-of-conduct/)
 
-[SuiteCRM](https://suitecrm.com) is the award-winning open-source, enterprise-ready Customer Relationship Management (CRM) software application.
+[SuiteCRM](https://suitecrm.com)  is the award-winning open-source, enterprise-ready Customer Relationship Management (CRM) software application.
 
 Our vision is to be the most adopted open source enterprise CRM in the world, giving users full control of their data and freedom to own and customise their business solution.
 
