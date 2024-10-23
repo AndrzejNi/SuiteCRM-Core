@@ -6,13 +6,10 @@ services:
       - '443:443'
     volumes: 
       - 'suitecrm_data:/bitnami/suitecrm'
-      - './public/legacy/modules:/bitnami/suitecrm/public/legacy/modules'
-      - './public/legacy/custom/Extension/application/Ext:/bitnami/suitecrm/public/legacy/custom/Extension/application/Ext'
-      - './public/legacy/custom/Extension/modules/AOS_Products:/bitnami/suitecrm/public/legacy/custom/Extension/modules/AOS_Products' # dodatkowa definicja do modułu corowego  
-      #- './public/legacy/custom/Extension/modules/AOS_Products/Ext/Language:/bitnami/suitecrm/public/legacy/custom/Extension/modules/AOS_Products/Ext/Language' # dodatkowa definicja Etykiet do modułu corowego  
-      #- './public/legacy/custom/Extension/modules/AOS_Products/Ext/Vardefs:/bitnami/suitecrm/public/legacy/custom/Extension/modules/AOS_Products/Ext/Vardefs' # dodatkowa definicja Vardef do modułu corowego  
-      #- './public/legacy/custom/modules/AOS_Products/metadata:/bitnami/suitecrm/public/legacy/custom/modules/AOS_Products/metadata' # dodatkowa definicja pólwidoków do modułu corowego       
-      - './public/legacy/custom/modules/AOS_Products:/bitnami/suitecrm/public/legacy/custom/modules/AOS_Products' # dodatkowa definicja pólwidoków do modułu corowego       
+      #- './public/legacy/modules:/bitnami/suitecrm/public/legacy/modules'
+      #- './public/legacy/custom/Extension/application/Ext:/bitnami/suitecrm/public/legacy/custom/Extension/application/Ext'
+      #- './public/legacy/custom/Extension/modules/AOS_Products:/bitnami/suitecrm/public/legacy/custom/Extension/modules/AOS_Products' # dodatkowa definicja do modułu corowego  
+      #- './public/legacy/custom/modules/AOS_Products:/bitnami/suitecrm/public/legacy/custom/modules/AOS_Products' # dodatkowa definicja pólwidoków do modułu corowego       
       #- './public/legacy/include:/bitnami/suitecrm/public/legacy/include'
       #- './public/legacy/Api:/bitnami/suitecrm/public/legacy/Api'
       #- './extensions:/bitnami/suitecrm/extensions'
